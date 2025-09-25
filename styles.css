@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+table{
+	width:100%;
+	 border-collapse: collapse;
+}
+
+#tr1{
+	background-color: #EF574C;
+}
+
+#tr2{
+	background-color:#f29c8d;
+}
+
+#tr3{
+	background-color:#c2a19b;
+}
+
+#tr4{
+	background-color:#a39c9b;
+}
